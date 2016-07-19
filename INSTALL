@@ -1,0 +1,5 @@
+Building Bitmoon
+need to install libevent
+See doc/readme-qt.rst for instructions on building Bitmoon QT.
+
+See doc/build-*.txt for instructions on building Bitmoond.

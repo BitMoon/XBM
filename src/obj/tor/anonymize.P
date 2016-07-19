@@ -1,0 +1,18 @@
+obj/tor/anonymize.o: tor/anonymize.cpp tor/anonymize.h \
+ /home/kranio/Desktop/bitmoon/src/util.h \
+ /home/kranio/Desktop/bitmoon/src/uint256.h \
+ /home/kranio/Desktop/bitmoon/src/netbase.h \
+ /home/kranio/Desktop/bitmoon/src/serialize.h \
+ /home/kranio/Desktop/bitmoon/src/allocators.h \
+ /home/kranio/Desktop/bitmoon/src/version.h \
+ /home/kranio/Desktop/bitmoon/src/clientversion.h \
+ /home/kranio/Desktop/bitmoon/src/compat.h
+tor/anonymize.cpp tor/anonymize.h :
+ /home/kranio/Desktop/bitmoon/src/util.h :
+ /home/kranio/Desktop/bitmoon/src/uint256.h :
+ /home/kranio/Desktop/bitmoon/src/netbase.h :
+ /home/kranio/Desktop/bitmoon/src/serialize.h :
+ /home/kranio/Desktop/bitmoon/src/allocators.h :
+ /home/kranio/Desktop/bitmoon/src/version.h :
+ /home/kranio/Desktop/bitmoon/src/clientversion.h :
+ /home/kranio/Desktop/bitmoon/src/compat.h :
